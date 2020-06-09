@@ -4,6 +4,4 @@ Homework Assignment on Docker
 1. Orientation and Setup
 2. Build and Run your image
 3. Share images on Docker Hub
-4. Develop with Docker
-5. Configure Networking
-6. Manage Application Data
+
