@@ -2,3 +2,4 @@
 # Docker Tutorial
 Homework Assignment on Docker
 1. Orientation and Setup
+2. Build and Run your image
